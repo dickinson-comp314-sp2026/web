@@ -33,5 +33,5 @@ Assignments:
 *   [homework assignment J](hwJ.pdf). Note that there is no homework
     assignment "I". (Airlines and theaters often do the same thing --
     seats go straight from H to J, to avoid "I" which looks too much
-    like the numeral "1".) This assignment comes with a free one-day
-    extension -- submit by 11:59pm on the last Friday of classes.
+    like the numeral "1".) 
+    <!-- This assignment comes with a free one-day extension -- submit by 11:59pm on the last Friday of classes. -->

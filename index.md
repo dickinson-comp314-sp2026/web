@@ -1,9 +1,9 @@
-# COMP/MATH314: Computability and Complexity, Spring 2023
+# COMP/MATH314: Computability and Complexity, Spring 2026
 
-![WCBC with cat](wcbc-cat.jpg)
+<!-- ![WCBC with cat](wcbc-cat.jpg) -->
 
-* [Syllabus](syllabus-1-23-2023.docx)
-* [Overview Schedule](schedule-1-23-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Syllabus](syllabus-1-1-2026.docx)
+* [Overview Schedule](schedule-1-1-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook (WCBC)](textbook.md)
 * [Homework assignments](hw)
