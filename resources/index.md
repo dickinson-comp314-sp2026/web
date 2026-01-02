@@ -14,8 +14,7 @@ Today's PowerPoint: [01-intro.pptx](class01/01-intro.pptx).
 If there's time, we will try to run and edit some Python programs
   using IDLE. Key points:
 
-* Always use Version 3.x of Python for this course
-* You can [download Python 3](https://www.python.org/downloads/) and
+* You can [download Python](https://www.python.org/downloads/) and
     install it on your own laptop etc.
 * Python is also available on various college computers, and via online sites such as [pythonanywhere.com](https://www.pythonanywhere.com/).
 
