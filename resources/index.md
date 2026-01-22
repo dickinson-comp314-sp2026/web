@@ -4,6 +4,33 @@
 
 _Class will take place in Tome 117 today_
 
+### Minilab: Using WCBC programs from a different folder
+
+Chapter 2 of the textbook explains how to use programs that are saved and run from same folder as the WCBC utilities. It's fine to work like this, but it becomes difficult to keep your files organized in separate folders. This minilab demonstrates how use the WCBC programs while also storing your own Python files somewhere else. 
+
+* Download and extract [`wcbc-programs-v1.1.zip`](../wcbc-programs/wcbc-programs-v1.1.zip) into your `comp314` folder.
+* Download [`use_containsGAGA.py`](class02/use_containsGAGA.py) and organize as follows:
+```
+comp314
+├── classes
+│   ├── class01
+│   └── class02
+│       └── use_containsGAGA.py
+├── hw
+└── wcbc-programs-v1.1
+```
+* Open `use_containsGAGA.py` in IDLE or your favorite Python environment. 
+* Run it, check that it works correctly, add a few more test strings to the source code and rerun. Note the use of
+```python
+import sys
+sys.path.append('../../wcbc-programs-v1.1')
+```
+to make the WCBC utils accessible.
+* Write your own `use_isEven.py`.
+* Write your own `use_countLines.py`. What inputs can you use? How about some files?
+
+### Lecture for today
+
 Required reading: Chapters 1 and 2 of WCBC.
 
 Today's PowerPoint: [02-computer-programs.pptx](class02/02-computer-programs.pptx).
