@@ -11,6 +11,7 @@
 * [Exams](exams.md)
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=68846)
 * Python programs for textbook: [wcbc-programs-v1.1.zip](wcbc-programs/wcbc-programs-v1.1.zip)
+* Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [AI prompt](wcbc-prompt.md)
  <!-- [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
