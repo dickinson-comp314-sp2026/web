@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 2
+
+_Class will take place in Tome 117 today_
+
+Required reading: Chapters 1 and 2 of WCBC.
+
+Today's PowerPoint: [02-computer-programs.pptx](class02/02-computer-programs.pptx).
+
 
 ## Class 1
 
