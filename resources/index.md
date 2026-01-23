@@ -2,7 +2,8 @@
 
 ## Class 2
 
-_Class will take place in Tome 117 today_
+* _Class will take place in Tome 117 today._
+* _If campus is closed on Monday, class will take place online via Zoom. The link and details are on the course home page._
 
 ### Minilab: Using WCBC programs from a different folder
 
