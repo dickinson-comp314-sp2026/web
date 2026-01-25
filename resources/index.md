@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 3
+
+Required reading: WCBC Chapter 3.
+
+Handout for today: [class3-handout.pdf](class03/class3-handout.pdf).
+
+Today's warm-up exercise: [03-warmup.docx](class03/03-warmup.docx)
+
+Today's PowerPoint: [03-impossible-programs.pptx](class03/03-impossible-programs.pptx).
+
+
 ## Class 2
 
 * _Class will take place in Tome 117 today._
