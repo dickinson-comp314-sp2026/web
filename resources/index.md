@@ -1,5 +1,19 @@
 # Detailed schedule and resources
 
+## Class 4
+
+Announcement: How to get help in this course -- see new link on the main course homepage.
+
+Required reading: WCBC Chapter 4.
+
+Today's warm-up exercise: [04-warmup.docx](class04/04-warmup.docx)
+
+Today's PowerPoint: [04-computational-problems.pptx](class04/04-computational-problems.pptx).
+
+Programs for experimenting with ESS and DESS: [switchAndConcat.py](class04/switchAndConcat.py), [switchAndConcat1Param.py](class04/switchAndConcat1Param.py). (Remember to move these into your `wcbc-programs-v1.1` folder.)
+
+
+
 ## Class 3
 
 Required reading: WCBC Chapter 3.
