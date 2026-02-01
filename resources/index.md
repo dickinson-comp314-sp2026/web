@@ -1,5 +1,34 @@
 # Detailed schedule and resources
 
+## Class 5
+
+Required reading: WCBC Chapter 5.
+
+To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is JFLAP7.1.jar from Jul 27, 2018.
+
+**If the JFLAP website is down you can get [JFLAP on Moodle](https://lms.dickinson.edu/mod/resource/view.php?id=1384071) instead**
+
+**If JFLAP won't run when you click on it, open a terminal, navigate to the directory where you have saved the file `JFLAP7.1.jar`, then enter the command**
+```
+java -jar JFLAP7.1.jar
+```
+(Of course, you need to have Java installed on your computer for this to work.)
+
+Minilab (ungraded): using JFLAP,
+
+*   experiment with [binary-incrementer.jff](binary-incrementer.jff)
+*   Create and test the basic version of LastTtoA (fig 5.3)
+*   Create and test the abbreviated version of LastTtoA (fig 5.6)
+*   Create and test a machine that processes genetic strings, changing every "c" to a "g" and every "g" to a "c"
+*   Optional extras: Create a machine that accepts any string of length 10 or more that also contains an "a".
+
+Today's PowerPoint: [05-turing-machines.pptx](class05/05-turing-machines.pptx).
+
+
+
+
+
+
 ## Class 4
 
 Announcement: How to get help in this course -- see new link on the main course homepage.
