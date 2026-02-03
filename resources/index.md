@@ -2,7 +2,18 @@
 
 ## Class 5
 
+Warmup:
+* Install JFLAP (see [JFLAP](#jflap) instructions below)
+
+Announcements:
+* If printing code from VScode, save toner by printing with a white background -- use _Preferences: Toggle between Light/Dark Themes_.
+* Icebreaker exercise: back row of students, be ready to state your name and your favorite Dickinson course outside COMP/MATH/DATA -- state the name and the instructor of the course.
+* Homework solutions are available on Moodle.
+  - Also, we will go over a couple of homework mistakes in class.
+
 Required reading: WCBC Chapter 5.
+
+### JFLAP
 
 To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is JFLAP7.1.jar from Jul 27, 2018.
 
