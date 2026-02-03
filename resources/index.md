@@ -7,7 +7,10 @@ Warmup:
 
 Announcements:
 * If printing code from VScode, save toner by printing with a white background -- use _Preferences: Toggle between Light/Dark Themes_.
+* If formatting code within Microsoft Word, make sure to use a fixed width font (e.g., Consolas or Courier) for accurate indentation, and find the "Remove Space After Paragraph" option to ensure single spacing.
 * Icebreaker exercise: back row of students, be ready to state your name and your favorite Dickinson course outside COMP/MATH/DATA -- state the name and the instructor of the course.
+* This is how to interpret graded homework assignments:
+  - First, remember that only a random subset of questions are graded. Second, usually some points are awarded for completeness (i.e. reasonable attempts at the questions that were not graded). The score written on your homework will look something like "14/14 + 10c = 24/24". That means the graded questions were worth a total of 14 points and you scored 14/14. In addition, 10 points were awarded for completeness. Your total score was 24/24. So, the letter "c" in "10c" stands for "completeness".
 * Homework solutions are available on Moodle.
   - Also, we will go over a couple of homework mistakes in class.
 
