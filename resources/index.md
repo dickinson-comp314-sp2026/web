@@ -8,6 +8,8 @@ Today's PowerPoint: [06-universal-programs.pptx](class06/06-universal-programs.p
 
 Really nice online [cellular automaton simulator](https://devinacker.github.io/celldemo/).
 
+[Ribosome video](https://www2.mrc-lmb.cam.ac.uk/groups/ribo/resources/videos/) from LMB Cambridge -- skip to 1:45.
+
 Optional minilab (ungraded, but important and fun):
 
 *   Download the [Universal Turing machine](class06/tu.jff) of Lucas and Jarvis (see also their [explanatory webpage](http://www.itss.brockport.edu/~jlucas/jarvis/JFLAP/examples/e2/pg0.html) if you're interested).
