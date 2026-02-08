@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 7
+
+Required reading: WCBC Chapter 7, sections 7.1-7.5.
+
+Today's warm-up exercise: [warmup07.docx](class07/warmup07.docx)
+
+Today's PowerPoint: [07-reductions.pptx](class07/07-reductions.pptx).
+
+
+
+
 ## Class 6
 
 Required reading: WCBC Chapter 6.
