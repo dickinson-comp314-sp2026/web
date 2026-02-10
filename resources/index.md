@@ -2,6 +2,8 @@
 
 ## Class 7
 
+Announcement: Don't forget that an AI prompt is available to help you with this course. See course home page.
+
 Required reading: WCBC Chapter 7, sections 7.1-7.5.
 
 Today's warm-up exercise: [warmup07.docx](class07/warmup07.docx)
