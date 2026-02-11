@@ -1,41 +1,37 @@
 # Exams
 
-The midterm and final exams are "open note." As stated on the course syllabus, this means "you can consult your own notes, the textbook, and course materials." This webpage provides additional guidance on exactly what is permitted.
+As stated on the course syllabus, the midterm and final exams are "closed book with note sheet." This webpage provides additional guidance on exams for this course.
 
-Students may
-* consult any printed or written materials;
-* consult an electronic copy of the textbook;
-* consult any content on the official course webpages, including
-  Moodle (this includes the homework solutions and the textbook's
-  Python programs);
-* use JFLAP, IDLE, and any other reasonable development environment
-  for writing Python programs (e.g. PyCharm, VSCode).
-  
-Students may not
-* perform web searches;
-* consult online material other than that listed above;
-* consult other humans or generative AI tools such as chatbots.
 
-All solutions must be written by hand on blank paper and turned in at the end of the exam.
+* It will be possible to retake an exam under certain conditions. See the separate [Exam retakes page](./retakes.md).
 
-Technically speaking, any material covered in any lecture, reading, or homework assignment is eligible to appear in the midterm or final exams. In practice, most exam questions will be similar to a homework question, an example done in class, or other assigned practice questions.
+* All solutions must be written by hand on blank paper and turned in at the end of the exam.
 
-<!-- The [ADS Test-Related Guidance](https://www.dickinson.edu/info/20027/academics/4045/ads_test_related_guidance) will be followed. -->
+* You may not consult any
+printed, written, electronic, or other materials. Exceptions: you may
+bring into the exam _one page_ of handwritten notes (one side of US
+letter sized paper only) for Exams 1 and 2; for the final exam, two sides of handwritten notes are permitted.
 
-**Notes:**
+* Technically speaking, any material covered in any lecture, reading, or homework assignment is eligible to appear in the midterm or final exams. In practice, most exam questions will be similar to a homework question, an example done in class, or other assigned practice questions.
 
-1.  When proving results in exams for this course, you may assume,
+* When proving results in exams for this course, you may assume,
     without proof, any facts that were stated or proved in class or in
     the textbook (unless the question specifically states
     otherwise). For example, if it was stated or proved in class that
     a certain computational problem is undecidable, NP-hard, or
     NP-complete, you may use this fact in your proofs. However, you
     must clearly state any fact that you use in this way.
-1.  When describing Turing machines and finite automata, you may use
+
+* When describing Turing machines and finite automata, you may use
     any generally-accepted notation, including the textbook's notation
     or JFLAP notation.
 
-### Exam 1
+* Practice exams are available. (These are actually exams from an earlier instance of the course, in which exams were open note. The nature of the questions will be adjusted a little for this semester because the exams are now closed book.)
+  - [Written exam 1 practice](practice/exam1-sp23.pdf), [solution](practice/exam1-sp23-solution.pdf)
+  - [Written exam 2 practice](practice/exam2-sp23.pdf), [solution](practice/exam2-sp23-solution.pdf)
+  - [Final exam practice](practice/final-sp23.pdf), [solution](practice/final-sp23-solution.pdf)
+
+## Exam 1
 
 Exam 1 covers material from textbook chapters 1-9 inclusive. It is likely to contain questions asking you to:
 * prove the uncomputability of a problem via the three reduction
@@ -48,7 +44,15 @@ Exam 1 covers material from textbook chapters 1-9 inclusive. It is likely to con
 
 Of course, it might not include all of the above types of questions, and there will be other questions too.
 
-### Exam 2
+The duration of the exam is 75 minutes, and there will be questions
+worth a total of approximately 75 points on the exam. So you should budget your time
+at the rate of about one point per minute.  Try to allocate your time
+wisely: spend only about 10 minutes on a 10-point question, and about
+5 minutes on a 5-point question, and so on. 
+
+One side of handwritten notes are permitted.
+
+## Exam 2
 
 Exam 2 covers material from textbook chapters 10-14 inclusive. Likely questions include: 
 * estimating the complexity of a Python program;
@@ -59,7 +63,9 @@ Exam 2 covers material from textbook chapters 10-14 inclusive. Likely questions 
 * giving examples of problems that are in or out of the common
   complexity classes.
 
-### Final Exam
+O ne side of handwritten notes are permitted.
+
+## Final exam
 
 The final exam is cumulative, covering all topics in chapters 1-14 with approximately equal emphasis. The style and content of questions on chapters 1-14 will be similar to the two midterm exams.
 
