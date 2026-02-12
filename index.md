@@ -8,7 +8,7 @@
 * [Textbook (WCBC)](textbook.md)
 * [Homework assignments](hw)
 <!-- * [QRA](qra.md) -->
-* [Exams](exams.md)
+* [Exams](exams/)
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=68846)
 * Python programs for textbook: [wcbc-programs-v1.1.zip](wcbc-programs/wcbc-programs-v1.1.zip)
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
