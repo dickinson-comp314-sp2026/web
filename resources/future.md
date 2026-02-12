@@ -147,13 +147,6 @@ Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx)
 
 Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx).
 
-## Class 8
-
-Required reading: WCBC Chapter 7, sections 7.6-end.
-
-Today's warm-up exercise: [warmup08.docx](class08/warmup08.docx)
-
-Today's PowerPoint (same as last time, starting on slide 13): [07-reductions.pptx](class07/07-reductions.pptx).
  
 
 

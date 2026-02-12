@@ -1,5 +1,18 @@
 # Detailed schedule and resources
 
+## Class 8
+
+Announcements:
+* Exam web page is now up-to-date with correct information.
+* 
+
+Required reading: WCBC Chapter 7, sections 7.6-end.
+
+Today's warm-up exercise: [warmup08.docx](class08/warmup08.docx)
+
+Today's PowerPoint (same as last time, starting on slide 13): [07-reductions.pptx](class07/07-reductions.pptx).
+
+
 ## Class 7
 
 Announcement: Don't forget that an AI prompt is available to help you with this course. See course home page.
