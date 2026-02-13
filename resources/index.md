@@ -4,7 +4,7 @@
 
 Announcements:
 * Exam web page is now up-to-date with correct information.
-* 
+* Get new version `wcbc-programs-v2.0.zip` from home page -- includes bug fix for universal.py 
 
 Required reading: WCBC Chapter 7, sections 7.6-end.
 
