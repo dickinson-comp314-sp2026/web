@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 9
+
+Required reading: WCBC Chapter 8.
+
+Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx)
+
+Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx).
+
+
 ## Class 8
 
 Announcements:

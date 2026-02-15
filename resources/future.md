@@ -139,13 +139,6 @@ Today's PowerPoint: [09-finite-automata.pptx](class10/09-finite-automata.pptx).
 
 In-class JFLAP activity: [activity-class10.docx](class10/activity-class10.docx).
 
-## Class 9
-
-Required reading: WCBC Chapter 8.
-
-Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx)
-
-Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx).
 
  
 
