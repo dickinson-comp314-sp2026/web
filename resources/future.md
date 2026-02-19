@@ -131,13 +131,6 @@ Today's PowerPoint (same as last time): [09-finite-automata.pptx](class10/09-fin
 
 Optionally, you can gain familiarity with pumping lemma proofs by playing a game within JFLAP. Choose "regular pumping lemma" from the initial JFLAP window. Then choose "computer goes first" (the "you go first" option is also interesting and useful, but we don't explain it further here). Choose one of the languages. Now your job is to force the computer to violate the pumping lemma. JFLAP's notation is as follows: _m_ is the pumping cutoff; _w_ is the string in the language that will have some substring pumped; _i_ is the number of times _w_ will have a substring pumped; _w_ gets partitioned as _w=XYZ_ where _Y_ is the substring to be pumped.
 
-## Class 10
-
-Required reading: WCBC Chapter 9, sections 9.1-9.4.
-
-Today's PowerPoint: [09-finite-automata.pptx](class10/09-finite-automata.pptx).
-
-In-class JFLAP activity: [activity-class10.docx](class10/activity-class10.docx).
 
 
  

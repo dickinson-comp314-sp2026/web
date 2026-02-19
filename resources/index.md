@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 10
+
+Required reading: WCBC Chapter 9, sections 9.1-9.4.
+
+Today's PowerPoint: [09-finite-automata.pptx](class10/09-finite-automata.pptx).
+
+In-class JFLAP activity: [activity-class10.docx](class10/activity-class10.docx).
+
+
 ## Class 9
 
 Required reading: WCBC Chapter 8.
