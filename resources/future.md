@@ -103,17 +103,13 @@ Required reading: WCBC Chapter 11, sections 11.1-11.3.
 
 Today's PowerPoint: [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
 
-## Class 14
 
-Exam 1. Covers WCBC Chapters 1-9.
 
-## Class 13
 
-Exam revision -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand.
 
 <!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
 
-## Class 12
+## Class 14
 
 Required reading: WCBC Chapter 10.
 
@@ -124,6 +120,8 @@ Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-the
 
 
 
- 
+## Class 13
+
+Exam 1. Covers WCBC Chapters 1-9. 
 
 

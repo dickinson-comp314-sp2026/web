@@ -1,5 +1,9 @@
 # Detailed schedule and resources
 
+## Class 12
+
+Exam review -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand.
+
 ## Class 11
 
 Required reading: WCBC Chapter 9, sections 9.5-end.
