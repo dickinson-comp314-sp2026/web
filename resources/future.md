@@ -87,7 +87,6 @@ Today's PowerPoint: [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly
 
 ## Class 16
 
-Please complete the [mid-semester survey](https://forms.office.com/r/9Hap92dZ9J)
 
 Required reading: WCBC Chapter 11, sections 11.4-end.
 
@@ -98,6 +97,11 @@ Handout comparing the proof that the halting problem is undecidable with the pro
 <!-- Warmup for POLY vs EXPO: [warmup-for-poly-vs-expo.png](class15/warmup-for-poly-vs-expo.png). -->
 
 ## Class 15
+
+Please complete the [mid-semester survey](https://forms.office.com/r/0Q1JywgcPA)
+
+
+
 
 Required reading: WCBC Chapter 11, sections 11.1-11.3.
 
