@@ -1,6 +1,6 @@
 # Exam retakes
 
-You can retake any midterm exam, but not the final exam. If you scored 90% or better, then you can't retake the exam. After retaking an exam, your official score for the exam will be computed as the average of your original score and the retake score, but capped at 90%.  
+You can retake any midterm exam, but not the final exam. If your curved score was <span style="color: red;">85%</span> or better, then you can't retake the exam. After retaking an exam, your official score for the exam will be computed as the <span style="color: red;">average of (a) your original curved score and (b) either 85% or your new score, whichever is the lower. [Retake threshold and computation updated for exam 1 on 3/5/2026.]</span>
 
 When you retake the exam, you must do it with the same time limit and under the same exam conditions as the original exam. 
 (This means no assistance, no devices, and no materials except one page of handwritten notes.) 
