@@ -113,19 +113,5 @@ Today's PowerPoint: [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
 
 <!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
 
-## Class 14
-
-Required reading: WCBC Chapter 10.
-
-Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-theory-basics.pptx).
-
-<!-- Whiteboard notes on big ideas in the course so far: [big-ideas.png](class12/big-ideas.png). -->
-
-
-
-
-## Class 13
-
-Exam 1. Covers WCBC Chapters 1-9. 
 
 

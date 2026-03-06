@@ -1,5 +1,23 @@
 # Detailed schedule and resources
 
+## Class 14
+
+Explanation of [grade and curving for exam 1](../exams/curve1.md).
+
+Required reading: WCBC Chapter 10.
+
+Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-theory-basics.pptx).
+
+<!-- Whiteboard notes on big ideas in the course so far: [big-ideas.png](class12/big-ideas.png). -->
+
+
+
+
+## Class 13
+
+Exam 1. Covers WCBC Chapters 1-9. 
+
+
 ## Class 12
 
 Exam review -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand.
