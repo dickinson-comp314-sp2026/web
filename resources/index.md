@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 15
+
+Please complete the [mid-semester survey](https://forms.office.com/r/0Q1JywgcPA)
+
+Required reading: WCBC Chapter 11, sections 11.1-11.3.
+
+Today's PowerPoint: [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
+
+
 ## Class 14
 
 Explanation of [grade and curving for exam 1](../exams/curve1.md).
