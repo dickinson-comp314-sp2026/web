@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 16
+
+Required reading: WCBC Chapter 11, sections 11.4-end.
+
+Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
+
+Handout comparing the proof that the halting problem is undecidable with the proof that HaltsInExpTime cannot be solved in polynomial time: [Proof-that-HET-not-in-poly.pdf](class16/Proof-that-HET-not-in-poly.pdf). (optional enrichment)
+
+
 ## Class 15
 
 Please complete the [mid-semester survey](https://forms.office.com/r/0Q1JywgcPA)

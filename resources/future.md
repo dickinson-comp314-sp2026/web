@@ -85,14 +85,6 @@ Warmup for today: [warmup-class17.xlsx](class17/warmup-class17.xlsx).
 
 Today's PowerPoint: [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx).
 
-## Class 16
-
-
-Required reading: WCBC Chapter 11, sections 11.4-end.
-
-Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
-
-Handout comparing the proof that the halting problem is undecidable with the proof that HaltsInExpTime cannot be solved in polynomial time: [Proof-that-HET-not-in-poly.pdf](class16/Proof-that-HET-not-in-poly.pdf). (optional enrichment)
 
 <!-- Warmup for POLY vs EXPO: [warmup-for-poly-vs-expo.png](class15/warmup-for-poly-vs-expo.png). -->
 
