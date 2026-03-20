@@ -2,6 +2,11 @@
 
 ## Class 16
 
+Announcements:
+* happy 🌼 🌱 spring
+* Eid Mubarak 😊
+* feedback discussion 
+
 Required reading: WCBC Chapter 11, sections 11.4-end.
 
 Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
