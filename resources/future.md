@@ -77,23 +77,8 @@ Today's PowerPoint (same as last time): [12-polycheck-and-npoly.pptx](class17/12
 
 Warmup for today: [warmup-class18.docx](class18/warmup-class18.docx).
 
-## Class 17
-
-Required reading: WCBC Chapter 12, sections 12.1-12.3.
-
-Warmup for today: [warmup-class17.xlsx](class17/warmup-class17.xlsx).
-
-Today's PowerPoint: [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx).
 
 
-<!-- Warmup for POLY vs EXPO: [warmup-for-poly-vs-expo.png](class15/warmup-for-poly-vs-expo.png). -->
-
-
-
-
-
-
-<!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
 
 
 
