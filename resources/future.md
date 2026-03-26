@@ -69,14 +69,6 @@ Today's PowerPoint: [13-polyreductions.pptx](class19/13-polyreductions.pptx).
 
 Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx).
 
-## Class 18
-
-Required reading: WCBC Chapter 12, sections 12.4-end.
-
-Today's PowerPoint (same as last time): [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx).
-
-Warmup for today: [warmup-class18.docx](class18/warmup-class18.docx).
-
 
 
 

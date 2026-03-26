@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 18
+
+Required reading: WCBC Chapter 12, sections 12.4-end.
+
+Today's PowerPoint (same as last time): [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx).
+
+Warmup for today: [warmup-class18.docx](class18/warmup-class18.docx).
+
+
+
+
 ## Class 17
 
 Required reading: WCBC Chapter 12, sections 12.1-12.3.
