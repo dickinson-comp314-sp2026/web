@@ -61,13 +61,6 @@ Today's PowerPoint (same as last time): [13-polyreductions.pptx](class19/13-poly
 
 Clarification of what you are expected to understand: the details of the Tseytin transformation will not be tested in homework or exams. All other reductions in this chapter are examinable.
 
-## Class 19
-
-Required reading: WCBC Chapter 13, sections 13.1-4.
-
-Today's PowerPoint: [13-polyreductions.pptx](class19/13-polyreductions.pptx).
-
-Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx).
 
 
 

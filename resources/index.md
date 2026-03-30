@@ -1,5 +1,15 @@
 # Detailed schedule and resources
 
+
+## Class 19
+
+Required reading: WCBC Chapter 13, sections 13.1-4.
+
+Today's PowerPoint: [13-polyreductions.pptx](class19/13-polyreductions.pptx).
+
+Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx).
+
+
 ## Class 18
 
 Required reading: WCBC Chapter 12, sections 12.4-end.
