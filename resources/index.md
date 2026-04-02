@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 20
+
+Required reading: WCBC Chapter 13, sections 13.5-end.
+
+Today's PowerPoint (same as last time): [13-polyreductions.pptx](class19/13-polyreductions.pptx).
+
+Clarification of what you are expected to understand: the details of the Tseytin transformation will not be tested in homework or exams. All other reductions in this chapter are examinable.
+
+
 
 ## Class 19
 
