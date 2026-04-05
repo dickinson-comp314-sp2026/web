@@ -47,14 +47,6 @@ Fortnow discussion questions: [fortnow-discussion-questions.docx](class22/fortno
 
 Today's PowerPoint (same as last time): [14-np-completeness.pptx](class21/14-np-completeness.pptx).
 
-## Class 21
-
-Required reading: WCBC Chapter 14, sections 14.1-5.
-
-Today's PowerPoint: [14-np-completeness.pptx](class21/14-np-completeness.pptx).
-
-
-
 
 
 

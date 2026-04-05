@@ -1,5 +1,15 @@
 # Detailed schedule and resources
 
+## Class 21
+
+Required reading: WCBC Chapter 14, sections 14.1-5.
+
+Today's PowerPoint: [14-np-completeness.pptx](class21/14-np-completeness.pptx).
+
+
+
+
+
 ## Class 20
 
 Required reading: WCBC Chapter 13, sections 13.5-end.
