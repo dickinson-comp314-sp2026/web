@@ -1,5 +1,15 @@
 # Detailed schedule and resources
 
+## Class 22
+
+Required reading: WCBC Chapter 14, sections 14.6-7. Please also read the excerpt from Lance Fortnow's book, _The Golden Ticket_ (available on [Moodle readings](https://lms.dickinson.edu/course/section.php?id=311529)).
+
+Fortnow discussion questions: [fortnow-discussion-questions.docx](class22/fortnow-discussion-questions.docx).
+
+Today's PowerPoint (same as last time): [14-np-completeness.pptx](class21/14-np-completeness.pptx).
+
+
+
 ## Class 21
 
 Required reading: WCBC Chapter 14, sections 14.1-5.
