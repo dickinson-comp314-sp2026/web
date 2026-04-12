@@ -33,11 +33,5 @@ Exam 2 -- see [exams](../exams.md) page for details.
 
 Exam review for chapters 10-14. No required reading.
 
-## Class 23
-
-Required reading: WCBC Chapter 15.
-
-Today's PowerPoint: [15-original-turing-machine.pptx](class23/15-original-turing-machine.pptx).
-
 
 

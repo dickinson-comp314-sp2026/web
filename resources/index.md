@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 23
+
+Required reading: WCBC Chapter 15.
+
+Today's PowerPoint: [15-original-turing-machine.pptx](class23/15-original-turing-machine.pptx).
+
+
+
 ## Class 22
 
 Required reading: WCBC Chapter 14, sections 14.6-7. Please also read the excerpt from Lance Fortnow's book, _The Golden Ticket_ (available on [Moodle readings](https://lms.dickinson.edu/course/section.php?id=311529)).
