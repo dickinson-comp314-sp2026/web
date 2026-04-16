@@ -29,9 +29,5 @@ Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx).
 Exam 2 -- see [exams](../exams.md) page for details.
 
 
-## Class 24
-
-Exam review for chapters 10-14. No required reading.
-
 
 

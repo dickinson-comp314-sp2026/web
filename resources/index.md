@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+
+## Class 24
+
+Exam review for chapters 10-14. No required reading.
+
+
 ## Class 23
 
 Required reading: WCBC Chapter 15.
