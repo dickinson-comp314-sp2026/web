@@ -1,6 +1,11 @@
 # Detailed schedule and resources
 
 
+## Class 25
+
+Exam 2 -- see [exams](../exams.md) page for details.
+
+
 ## Class 24
 
 Exam review for chapters 10-14. No required reading.

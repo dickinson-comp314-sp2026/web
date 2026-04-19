@@ -24,9 +24,6 @@ Required reading: WCBC Ch16
 Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx).
 
 
-## Class 25
-
-Exam 2 -- see [exams](../exams.md) page for details.
 
 
 
