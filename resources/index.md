@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 26
+
+Explanation of [grade and curving for exam 2](../exams/curve2.md).
+
+Required reading: WCBC Ch16
+
+Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx).
+
 
 ## Class 25
 

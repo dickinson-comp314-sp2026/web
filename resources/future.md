@@ -17,14 +17,6 @@ Required reading: WCBC Ch17
 
 Today's PowerPoint: [17-karps-problems.pptx](class27/17-karps-problems.pptx).
 
-## Class 26
-
-Required reading: WCBC Ch16
-
-Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx).
-
-
-
 
 
 
