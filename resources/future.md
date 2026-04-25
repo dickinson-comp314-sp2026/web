@@ -10,7 +10,7 @@ Also today: exam review and independent homework on assignment J.
 
 ## Class 27
 
-Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
+Please complete the [official feedback form](https://dickinson.campuslabs.com/eval-home/) for this course.
 
 
 Required reading: WCBC Ch17
