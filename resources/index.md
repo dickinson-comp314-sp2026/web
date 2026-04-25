@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 27
+
+Please complete the [official feedback form](https://dickinson.campuslabs.com/eval-home/) for this course.
+
+
+Required reading: WCBC Ch17
+
+Today's PowerPoint: [17-karps-problems.pptx](class27/17-karps-problems.pptx).
+
+
+
 ## Class 26
 
 Explanation of [grade and curving for exam 2](../exams/curve2.md).
