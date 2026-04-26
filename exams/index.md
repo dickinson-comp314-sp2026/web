@@ -71,8 +71,4 @@ The final exam is cumulative, covering all topics in chapters 1-14 with approxim
 
 Chapters 15-17 will be examined too, but the style of questions will be less rigorous: you are expected to have read and understood this material, but detailed calculations and proofs based on chapters 15-17 are not required. The ungraded questions in Assignment J are typical examples of questions that could be asked about chapters 15-17.
 
-As with all Dickinson final exams, you have three hours to complete
-the exam. The final exam will have questions worth approximately 120
-points, with the usual expectation that a well-prepared student would
-require about one minute per point. Therefore, the final exam should
-have somewhat less time pressure than the midterm exams.
+**The final exam is in two parts with one bathroom break between parts:** The exam consists of two parts: part A and part B.  You must turn in your final answers for part A before receiving the questions for part B. You may choose to exit the exam room after turning in part A and before receiving part B.  No other exits are permitted (except for permanent departure after turning in the final answers to part B). Notify the instructor if you need alternative arrangements for medical reasons. See the [sample exam cover sheet](./final-exam-cover-sheet.pdf) for additional details. 

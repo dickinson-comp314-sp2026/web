@@ -4,6 +4,8 @@
 
 Please complete the [official feedback form](https://dickinson.campuslabs.com/eval-home/) for this course.
 
+The final exam is in two parts with one bathroom break between parts. See the [sample exam cover sheet](../exams/final-exam-cover-sheet.pdf) for additional details. 
+
 
 Required reading: WCBC Ch17
 
